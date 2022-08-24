@@ -434,6 +434,9 @@ nav{
     }
   }
 @media only screen and (max-width:520px){
+    .bsn-heading{
+        font-size: 1.8rem;
+    }
     .business-img{
         width: 400px;
     }
@@ -450,6 +453,9 @@ nav{
     }
   }
 @media only screen and (max-width:400px){
+    .bsn-heading{
+        font-size: 1.6rem;
+    }
     .input-box{
         width: 310px;
     }
@@ -457,9 +463,9 @@ nav{
         width: 350px;
     }
     .member-section{
-        height: 175vh;
+        height: 185vh;
     }
     .footer{
-        height: 90vh;
+        height: 100vh;
     }
 }
