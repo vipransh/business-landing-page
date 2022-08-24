@@ -11,5 +11,5 @@ It took almost 5 hour to complete  this project.
 
 **Note-**  Media query is used to make this webpage responsive.
 
-[Live-Link]()
+[Live-Link](https://business-landing-web-page.netlify.app/)
 ![image](images/Business%20Landing%20Page.png)
