@@ -432,8 +432,14 @@ nav{
     .bsn-heading{
         font-size: 2rem;
     }
+    .pod-heading{
+        font-size: 1.9rem;
+    }
   }
 @media only screen and (max-width:520px){
+    .pod-heading{
+        font-size: 1.6rem;
+    }
     .bsn-heading{
         font-size: 1.8rem;
     }
